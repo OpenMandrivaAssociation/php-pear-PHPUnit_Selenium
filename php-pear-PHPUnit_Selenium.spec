@@ -70,3 +70,17 @@ fi
 %{_datadir}/pear/PHPUnit/Extensions/*.php
 %{_datadir}/pear/packages/PHPUnit_Selenium.xml
 
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.0-2mdv2012.0
++ Revision: 742194
+- fix major breakage by careless packager
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.0-1
++ Revision: 730889
+- import php-pear-PHPUnit_Selenium
+
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.0-1mdv2010.2
+- initial Mandriva package
