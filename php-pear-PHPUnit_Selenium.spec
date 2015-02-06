@@ -3,7 +3,7 @@
 Summary:	Selenium RC integration for PHPUnit
 Name:		php-pear-%{upstream_name}
 Version:	1.1.0
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/PHP
 URL:		http://www.phpunit.de/
